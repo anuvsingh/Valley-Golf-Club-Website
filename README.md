@@ -27,9 +27,6 @@ The website is designed to capture the fun and energetic spirit of Sidcup Family
 - **Interactive Cards:**  
   The services section displays cards that reveal more information on hover with smooth overlay animations and a subtle 3D rotation effect.
 
-- **Responsive Design:**  
-  The website is designed with responsiveness in mind, ensuring a seamless experience on various screen sizes.
-
 ## Technologies Used
 
 - **HTML5:** For semantic structure.
